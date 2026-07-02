@@ -1,0 +1,4 @@
+{"id":"44852741-5633-4f60-82f6-2fede4fdeb7e","ts":"2026-07-02T06:40:50.592Z","path":"/home/jpechane/sources/debezium/container-images/connect/3.7/Dockerfile","version":"1.0.0","taskID":"4ca03740-3701-495b-aaea-fd742a4207aa"}
+{"id":"57277ba6-5a0c-42b0-96ca-5f2a972388ba","ts":"2026-07-02T06:41:04.111Z","path":"/home/jpechane/sources/debezium/container-images/operator/3.7/Dockerfile","version":"1.0.0","taskID":"4ca03740-3701-495b-aaea-fd742a4207aa"}
+{"id":"ac8bc778-9179-4ba8-9ed1-76878905db9e","ts":"2026-07-02T06:41:17.829Z","path":"/home/jpechane/sources/debezium/container-images/platform-conductor/3.7/Dockerfile","version":"1.0.0","taskID":"4ca03740-3701-495b-aaea-fd742a4207aa"}
+{"id":"608434ab-92ab-4090-a60c-0b0ea6af19e9","ts":"2026-07-02T06:41:31.180Z","path":"/home/jpechane/sources/debezium/container-images/server/3.7/Dockerfile","version":"1.0.0","taskID":"4ca03740-3701-495b-aaea-fd742a4207aa"}
